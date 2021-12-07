@@ -1,0 +1,14 @@
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\bin\Debug\net6.0\SmallestMultiple.exe
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\bin\Debug\net6.0\SmallestMultiple.deps.json
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\bin\Debug\net6.0\SmallestMultiple.runtimeconfig.json
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\bin\Debug\net6.0\SmallestMultiple.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\bin\Debug\net6.0\ref\SmallestMultiple.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\bin\Debug\net6.0\SmallestMultiple.pdb
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.AssemblyInfoInputs.cache
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.AssemblyInfo.cs
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\ref\SmallestMultiple.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.pdb
+C:\Users\mpbin\Desktop\Coding\Project Euler\SmallestMultiple\obj\Debug\net6.0\SmallestMultiple.genruntimeconfig.cache

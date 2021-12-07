@@ -1,0 +1,15 @@
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\bin\Debug\net6.0\LargestPalindrome.exe
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\bin\Debug\net6.0\LargestPalindrome.deps.json
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\bin\Debug\net6.0\LargestPalindrome.runtimeconfig.json
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\bin\Debug\net6.0\LargestPalindrome.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\bin\Debug\net6.0\ref\LargestPalindrome.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\bin\Debug\net6.0\LargestPalindrome.pdb
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.csproj.AssemblyReference.cache
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.AssemblyInfoInputs.cache
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.AssemblyInfo.cs
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\ref\LargestPalindrome.dll
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.pdb
+C:\Users\mpbin\Desktop\Coding\Project Euler\LargestPalindrome\obj\Debug\net6.0\LargestPalindrome.genruntimeconfig.cache
